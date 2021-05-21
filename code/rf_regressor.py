@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
-os.chdir("/Users/mallen/Documents/suhi_climatology/")
+os.chdir("/home/vegveg/suhi_predictor")
 seed = 1
 # =============================================================================
 # 
